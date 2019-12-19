@@ -1,0 +1,73 @@
+{
+    "name": "PunchTab",
+    "description": "PunchTab is a SaaS-based Consumer Management Platform (CMP) for brands to build and optimize powerful, direct consumer relationships.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/909-punchtab.jpg",
+    "tags": [
+        "contests",
+        "customers",
+        "giveaways",
+        "have api",
+        "loyalty programs",
+        "rewards",
+        "social"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/punchtab\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "PunchTab",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/909-punchtab.jpg",
+            "humanURL": "http:\/\/www.punchtab.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/punchtab-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.punchtab.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.punchtab.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.punchtab.com\/index.php\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/punchtab"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/punchtab"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/developers.punchtab.com\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/PunchTab"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/punchtab"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.punchtab.com"
+        }
+    ]
+}
